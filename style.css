@@ -5,4 +5,30 @@
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-  }
+}
+
+
+/* shire-items */
+.flex {
+    display: flex;
+}
+
+/* header-area */
+.header-area {
+justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.navigation-area ul li {
+    list-style: none;
+
+
+
+}
+
+.navigation-area li a {
+    text-decoration: none;
+    margin-right: 15px;
+}
